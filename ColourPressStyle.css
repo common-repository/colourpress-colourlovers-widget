@@ -1,0 +1,42 @@
+				.cl_results {
+					margin:0;
+					padding: 10px 0 0 0;
+					overflow:auto;
+				}
+
+				.cl_results div {
+					overflow:auto;
+					margin: 0px 0 10px 0px;
+				}
+				.cl_results div a {
+					display:block;
+					text-decoration:none;
+					outline:none;
+					padding: 10px;
+					background: #fff;
+					margin: 0 auto;
+				}
+				.cl_results div a img {
+					border:0;
+				}
+				
+				.cl_results div .wrapper {
+					border: 1px solid #f7f7f7;
+					display:block;
+					overflow:hidden;
+				}
+				.cl_results div .name {
+					display:block;
+					background: #fff;
+					color: #333;
+					padding: 5px 0 1px 0;
+					font-size: normal 12px ;
+					margin-top: 2px;
+					text-align:left;
+				}
+				.cl_results div .colorblock {
+					float:left;
+					margin:0;
+					padding:0;
+					height: 100%;
+				}
